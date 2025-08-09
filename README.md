@@ -29,7 +29,10 @@ Try the live app here:
 
 | Home Screen | Country Details | Weather Info |
 |-------------|-----------------|--------------|
-| ![Home](screenshots/home.png) | ![Details](screenshots/details.png) | ![Weather](screenshots/weather.png) |
+| ![Home](<img width="886" height="757" alt="home" src="https://github.com/user-attachments/assets/11802234-f1d1-4f6c-8d62-58001a3922e5" />
+) | ![Details](<img width="851" height="805" alt="details" src="https://github.com/user-attachments/assets/a1f2ac03-37f8-4e32-bb04-35a87b062cbb" />
+) | ![Weather](<img width="874" height="745" alt="weather" src="https://github.com/user-attachments/assets/4a41ccd6-92fa-4c14-9d33-02ccee2b4847" />
+) |
 
 ---
 
