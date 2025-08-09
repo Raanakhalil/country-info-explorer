@@ -20,6 +20,8 @@ Welcome to the **Country Explorer App**! This interactive web app lets you explo
 
 Try the live app on hugging face  here:  
 [Country Explorer on Hugging Face][[(https://huggingface.co/spaces/Raanakhalil/Country-Info)](https://huggingface.co/spaces/Raanakhalil/Country-Info)]
+
+
 **Try the live app on streamlit  here: 
 https://country-info-explorer.streamlit.app/
 
