@@ -38,7 +38,7 @@ Try the live app here:
 
 ## 🛠️ Built With
 
-- [Streamlit](https://streamlit.io/) — Python framework for web apps
+- [Streamlit](https://streamlit.io/) https://country-info-explorer.streamlit.app/— Python framework for web apps
 - [Hugging Face Spaces](https://huggingface.co/spaces) — Deployment platform
 - [REST Countries API](https://restcountries.com/) — Country data source
 - [OpenWeatherMap API](https://openweathermap.org/api) — Weather data
